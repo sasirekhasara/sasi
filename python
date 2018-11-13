@@ -1,0 +1,5 @@
+import webbrowser
+'''ssk="https://www.google.co.in/"
+webbrowser.open(ssk)'''
+facebook="https://en-gb.facebook.com/login/"
+webbrowser.open(facebook)
